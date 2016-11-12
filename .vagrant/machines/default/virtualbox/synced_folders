@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/mysynced":{"mount_options":["dmode=755","fmode=644"],"guestpath":"/home/vagrant/mysynced","hostpath":"C:/mygitkraken/kojima/github/mystudy/mysynced","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/mygitkraken/kojima/github/mystudy","disabled":false,"__vagrantfile":true}}}
